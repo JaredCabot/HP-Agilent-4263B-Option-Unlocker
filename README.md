@@ -1,7 +1,6 @@
 # HP-Agilent-4263B-Option-Unlocker
 A script to automatically unlock options 001 and 002 on your HP or Agilent 4263B LCR meter
 
-This script will automatically enable options 001 and 002 on your HP / Agilent 4263B LCR Meter.
 
 Install Python and PyVISA, then your choice of Keysight IO Libraries Suite (if using a HPAK USP-GPIB adapter) or National Instruments NI-488.2 software if using an NI GPIB-USB-HS, or whatever respective drivers you need for your GPIB adapter.
 
