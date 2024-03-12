@@ -17,7 +17,7 @@ I have tested it under Windows 10 using an Agilent 83257B USB-GPIB adapter with 
 Special thanks to Miek for reverse engineering the checksum magic, and nfmax for providing the commands to read and write to memory!
 
 
-I have included a clean EPROM dump, just in case. You'll need to change the serial number at the top of the file to match the serial of your unit, which can be acomplished with any decent hex editor.
-Firmware version 1.06 is included too, if you need to update to the latest firmware. Just stick the largr EPROM chip in your chip programmer and burn the ROM. No recalibration or other steps required.
+I have included a clean EPROM dump, just in case. You'll need to change the serial number at the top of the file to match the serial of your unit, which can be accomplished with any decent hex editor.
+Firmware version 1.06 is included too if you need to update to the latest firmware. Just stick the larger EPROM chip in your chip programmer and burn the ROM. No recalibration or other steps required.
 
 eevblog thread: https://www.eevblog.com/forum/testgear/i_ve-got-a-hacking-challenge-for-you-guys!/
